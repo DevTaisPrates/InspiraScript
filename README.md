@@ -36,7 +36,8 @@ InspiraScript/
 │
 ├─ sql/ # Banco de dados MySQL
 │ ├─ schema.sql # Criação de tabelas
-│ └─ seed.sql # Dados de exemplo
+│ ├─seed.sql # Dados de exemplo
+| └─ selects.sql #selects
 │
 ├─ docs/ # Documentação e anotações
 │ └─ requisitos.md
